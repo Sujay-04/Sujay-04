@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development<br>👯 I’m looking to collaborate on Frontend Project<br><br>🌱 I’m currently learning Javascript<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on Frontend projects using HTML, CSS, JavaScript<br>👯 I’m looking to collaborate on Open-source projects related to frontend development<br>🤝 I’m looking for help with JavaScript logic, DOM manipulation, and real world project structure<br>🌱 I’m currently learning JavaScript, DOM, React basics, and SCSS<br>💬 Ask me about HTML, CSS, basic and JavaScript <br>⚡ Fun fact : I enjoy turning ideas into interactive web pages 😄
 
 
 ## 🌐 Socials:
